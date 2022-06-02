@@ -18,7 +18,7 @@ export const feedbackTypes = {
       alt: "Imagem de um inseto"
     }
   },
-  IDEAL: {
+  IDEA: {
     title: "Ideia",
     image: {
       source: ideaImageUrl,
